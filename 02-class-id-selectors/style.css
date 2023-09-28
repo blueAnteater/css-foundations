@@ -1,0 +1,21 @@
+* {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.base {
+    background-color: #ffcccb;
+}
+
+.loud {
+    font-size: 24px;
+}
+
+#big-blue{
+    font-size: 36px;
+    color: 	#0000FF;
+}
+
+#bright{
+    background-color: 	#90EE90;
+    font-weight: bold;
+}
